@@ -230,6 +230,7 @@ def main(): #mainfunction
   dp.add_handler(CommandHandler('symptom',symptom))
   dp.add_handler(CommandHandler('cases_statistics',cases_statistics))
   dp.add_handler(CommandHandler('precautions',precautions))
+  dp.add_handler(CommandHandler('vaccine',vaccine))
   dp.add_handler(CommandHandler('shopping',shopping))
   dp.add_handler(CommandHandler('mask',mask))
   dp.add_handler(CommandHandler('sanitizer',sanitizer))
