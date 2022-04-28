@@ -129,7 +129,7 @@ def sad(bot,update):
     bot.message.reply_text("NIMHANS:- 080 46110007")
     bot.message.reply_text("Roshni Trust:- 4066202000/2001")
     bot.message.reply_text("Asra:- 9820466726")
-    bot.message.reply_text(text="Do you want to continue texting with me?\n/yes or /no")
+    bot.message.reply_text(text="Do you want to continue texting with me?\n/yes or /no") 
 
 def bored(bot,update):
     chat_id = bot.message.chat_id
