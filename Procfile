@@ -1,1 +1,1 @@
-worker: python covidbot.py
+web: python covidbot.py
