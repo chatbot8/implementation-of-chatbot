@@ -18,7 +18,6 @@ def start(bot,update):
     bot.message.reply_text("type /vaccine to know about the vaccine dosage")
     bot.message.reply_text("type /mental_health to check upon your well being")
     bot.message.reply_text("type /shopping to shop medical items")
-    #bot.message.reply_text("type /message to view message to the public")
 
 def covid_info(bot,update):
 
